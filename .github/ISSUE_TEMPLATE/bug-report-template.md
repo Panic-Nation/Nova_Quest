@@ -1,6 +1,6 @@
 ---
 name: Bug Report Template
-about: Describe this issue template's purpose here.
+about: Please use this template to report any bugs you find!
 title: "[BUG]"
 labels: ''
 assignees: ''
